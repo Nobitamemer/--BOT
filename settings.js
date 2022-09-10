@@ -56,9 +56,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['917000562148'] //ur owner number
 global.ownername = "NOBITA" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: Bad Nobita " //ur yt  name
+global.socialm = "GitHub: itz_nobita_18" //ur github or insta name
+global.location = "India, " //ur location
 
 //bot bomdy 
 global.owner = ['917000562148']
@@ -69,8 +69,8 @@ global.owner = ['917000562148']
 global.ownertag = '917000562148' //ur tag number
 global.botname = 'NOBITA' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.websitex = "https://youtu.be/zh2a2ylxfGQ" //ur website to be displayed
+global.botscript = 'https://github.com/NOBITA0805/--BOT'//script link
 global.reactmoji = "🐈‍⬛" //ur menu react emoji
 global.themeemoji = "😶" //ur theme emoji
 global.packname = "𝑆𝒉𝑖𝑧𝑢𝑘𝑎 " //ur sticker watermark packname
@@ -98,7 +98,7 @@ global.nttoxic = []
 global.ntnsfw = []
 global.ntvirtex = []
 global.rkyt = []
-global.wlcm = []
+global.wlcm = [read ruls first ]
 global.gcrevoke = []
 global.autorep = []
 global.ntilink = []
